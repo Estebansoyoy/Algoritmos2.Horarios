@@ -1,0 +1,52 @@
+
+#lunes{
+    width: 15%;
+}
+
+table, th, td {
+    width: auto;
+    height: auto;
+    padding:10px;
+    border:1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+#centro{
+    text-align: center;
+}
+
+div{
+    background-color: aquamarine;
+}
+
+p{
+   text-align: center;
+}
+
+#vespertino{
+    background-color: aqua;
+}
+
+
+th{
+    background-color: aqua;
+}
+
+#tambien {
+    background-color: aqua;
+}
+
+td{ 
+    background-color: beige;
+    text-align: left;   
+}
+
+h1{
+    margin-top: 5%;
+    text-align: left;
+}
+
+#tabla2 {
+    ;
+}
